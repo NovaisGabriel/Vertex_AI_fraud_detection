@@ -6,3 +6,5 @@ print(df.info())
 print(df.head())
 
 df.describe()
+
+df.head()
